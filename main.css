@@ -79,6 +79,7 @@ footer {
     background-color: black;
     color: red;
     align-items: center;
+    justify-content: space-around;
 }
 
 .player {
